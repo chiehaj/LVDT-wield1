@@ -1,0 +1,41 @@
+H:\LVDT-ALL\test20160506\bin\Release\WieldLVDT.exe.manifest
+H:\LVDT-ALL\test20160506\bin\Release\WieldLVDT.application
+H:\LVDT-ALL\test20160506\bin\Release\WieldLVDT.exe
+H:\LVDT-ALL\test20160506\bin\Release\WieldLVDT.pdb
+H:\LVDT-ALL\test20160506\bin\Release\WieldLVDT.xml
+H:\LVDT-ALL\test20160506\obj\Release\ResolveAssemblyReference.cache
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.connectting.resources
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.Form1.resources
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.Form2.resources
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.form_param.resources
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.MAIN.resources
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.Resources.resources
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.NO2.resources
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.ReadGrapFileForm.resources
+H:\LVDT-ALL\test20160506\obj\Release\LVDT-ALL.vbproj.GenerateResource.Cache
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.exe.manifest
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.application
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.exe
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.xml
+H:\LVDT-ALL\test20160506\obj\Release\WieldLVDT.pdb
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\bin\Release\WieldLVDT.exe.manifest
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\bin\Release\WieldLVDT.application
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\bin\Release\WieldLVDT.exe
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\bin\Release\WieldLVDT.pdb
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\bin\Release\WieldLVDT.xml
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.connectting.resources
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.Form1.resources
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.Form2.resources
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.form_param.resources
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.FTPcsvMove.resources
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.MAIN.resources
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.Resources.resources
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.NO2.resources
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.ReadGrapFileForm.resources
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\LVDT-ALL.vbproj.GenerateResource.Cache
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.exe.manifest
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.application
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.exe
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.xml
+C:\Users\SKuser\Desktop\lvdt-bk\LVDT-new -191204bk\test20160506\obj\Release\WieldLVDT.pdb

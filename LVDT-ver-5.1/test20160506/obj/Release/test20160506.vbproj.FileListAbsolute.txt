@@ -1,0 +1,51 @@
+F:\Keyence PLC\test20160506\test20160506\bin\Release\test20160506.exe
+F:\Keyence PLC\test20160506\test20160506\bin\Release\test20160506.pdb
+F:\Keyence PLC\test20160506\test20160506\bin\Release\test20160506.xml
+F:\Keyence PLC\test20160506\test20160506\obj\Release\ResolveAssemblyReference.cache
+F:\Keyence PLC\test20160506\test20160506\obj\Release\test20160506.Form1.resources
+F:\Keyence PLC\test20160506\test20160506\obj\Release\test20160506.Form2.resources
+F:\Keyence PLC\test20160506\test20160506\obj\Release\test20160506.Resources.resources
+F:\Keyence PLC\test20160506\test20160506\obj\Release\test20160506.vbproj.GenerateResource.Cache
+F:\Keyence PLC\test20160506\test20160506\obj\Release\test20160506.exe
+F:\Keyence PLC\test20160506\test20160506\obj\Release\test20160506.xml
+F:\Keyence PLC\test20160506\test20160506\obj\Release\test20160506.pdb
+I:\Keyence PLC\test20160506\test20160506\obj\Release\test20160506.exe
+I:\Keyence PLC\test20160506\test20160506\obj\Release\test20160506.xml
+I:\Keyence PLC\test20160506\test20160506\obj\Release\test20160506.pdb
+D:\Keyence PLC\test20160506\test20160506\obj\Release\ResolveAssemblyReference.cache
+D:\Keyence PLC\test20160506\test20160506\obj\Release\test20160506.vbproj.GenerateResource.Cache
+D:\Keyence PLC\test20160506\test20160506\bin\Release\WieldLVDT.exe
+D:\Keyence PLC\test20160506\test20160506\bin\Release\WieldLVDT.pdb
+D:\Keyence PLC\test20160506\test20160506\bin\Release\WieldLVDT.xml
+D:\Keyence PLC\test20160506\test20160506\obj\Release\WieldLVDT.connectting.resources
+D:\Keyence PLC\test20160506\test20160506\obj\Release\WieldLVDT.Form1.resources
+D:\Keyence PLC\test20160506\test20160506\obj\Release\WieldLVDT.Form2.resources
+D:\Keyence PLC\test20160506\test20160506\obj\Release\WieldLVDT.form_param.resources
+D:\Keyence PLC\test20160506\test20160506\obj\Release\WieldLVDT.Resources.resources
+D:\Keyence PLC\test20160506\test20160506\obj\Release\WieldLVDT.exe
+D:\Keyence PLC\test20160506\test20160506\obj\Release\WieldLVDT.xml
+D:\Keyence PLC\test20160506\test20160506\obj\Release\WieldLVDT.pdb
+D:\Keyence PLC\test20160506\test20160506\bin\Release\WieldLVDT.exe.manifest
+D:\Keyence PLC\test20160506\test20160506\bin\Release\WieldLVDT.application
+D:\Keyence PLC\test20160506\test20160506\obj\Release\WieldLVDT.exe.manifest
+D:\Keyence PLC\test20160506\test20160506\obj\Release\WieldLVDT.application
+H:\test20160506\test20160506\obj\Release\WieldLVDT.exe
+H:\test20160506\test20160506\obj\Release\WieldLVDT.xml
+H:\test20160506\test20160506\obj\Release\WieldLVDT.pdb
+H:\test20160506\test20160506\bin\Release\WieldLVDT.exe.manifest
+H:\test20160506\test20160506\bin\Release\WieldLVDT.application
+H:\test20160506\test20160506\bin\Release\WieldLVDT.exe
+H:\test20160506\test20160506\bin\Release\WieldLVDT.pdb
+H:\test20160506\test20160506\bin\Release\WieldLVDT.xml
+H:\test20160506\test20160506\obj\Release\ResolveAssemblyReference.cache
+H:\test20160506\test20160506\obj\Release\WieldLVDT.connectting.resources
+H:\test20160506\test20160506\obj\Release\WieldLVDT.Form1.resources
+H:\test20160506\test20160506\obj\Release\WieldLVDT.Form2.resources
+H:\test20160506\test20160506\obj\Release\WieldLVDT.form_param.resources
+H:\test20160506\test20160506\obj\Release\WieldLVDT.Resources.resources
+H:\test20160506\test20160506\obj\Release\test20160506.vbproj.GenerateResource.Cache
+H:\test20160506\test20160506\obj\Release\WieldLVDT.exe.manifest
+H:\test20160506\test20160506\obj\Release\WieldLVDT.application
+I:\test20160506\test20160506\obj\Release\WieldLVDT.exe
+I:\test20160506\test20160506\obj\Release\WieldLVDT.xml
+I:\test20160506\test20160506\obj\Release\WieldLVDT.pdb

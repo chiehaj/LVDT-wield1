@@ -1,0 +1,226 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\test20160506\bin\Debug\test20160506.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\test20160506\bin\Debug\test20160506.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\test20160506\bin\Debug\test20160506.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\test20160506\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\test20160506\obj\Debug\test20160506.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\test20160506\obj\Debug\test20160506.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\test20160506\obj\Debug\test20160506.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\test20160506\obj\Debug\test20160506.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\test20160506\obj\Debug\test20160506.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\test20160506\obj\Debug\test20160506.pdb
+D:\KeyencePLC\Test\test20160506\test20160506\obj\Debug\test20160506.exe
+D:\KeyencePLC\Test\test20160506\test20160506\obj\Debug\test20160506.xml
+D:\KeyencePLC\Test\test20160506\test20160506\obj\Debug\test20160506.pdb
+D:\KeyencePLC\Test\test20160506\test20160506\obj\Debug\ResolveAssemblyReference.cache
+D:\KeyencePLC\Test\test20160506\test20160506\obj\Debug\test20160506.Form1.resources
+D:\KeyencePLC\Test\test20160506\test20160506\obj\Debug\test20160506.Resources.resources
+D:\KeyencePLC\Test\test20160506\test20160506\obj\Debug\test20160506.vbproj.GenerateResource.Cache
+D:\KeyencePLC\Test\test20160506\test20160506\bin\Debug\test20160506.exe
+D:\KeyencePLC\Test\test20160506\test20160506\bin\Debug\test20160506.pdb
+D:\KeyencePLC\Test\test20160506\test20160506\bin\Debug\test20160506.xml
+I:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.exe
+I:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.xml
+I:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.pdb
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\test20160506.exe
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\test20160506.pdb
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\test20160506.xml
+I:\Keyence PLC\test20160506\test20160506\obj\Debug\ResolveAssemblyReference.cache
+I:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.Form1.resources
+I:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.Resources.resources
+I:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.vbproj.GenerateResource.Cache
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\ZedGraph.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\ZedGraph.xml
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\de\ZedGraph.resources.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\es\ZedGraph.resources.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\fr\ZedGraph.resources.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\hu\ZedGraph.resources.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\it\ZedGraph.resources.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\ja\ZedGraph.resources.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\pt\ZedGraph.resources.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\ru\ZedGraph.resources.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\sk\ZedGraph.resources.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\sv\ZedGraph.resources.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\tr\ZedGraph.resources.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\zh-cn\ZedGraph.resources.dll
+I:\Keyence PLC\test20160506\test20160506\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.exe
+F:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.xml
+F:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.pdb
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\test20160506.exe
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\test20160506.pdb
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\test20160506.xml
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\ZedGraph.xml
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\de\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\es\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\fr\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\hu\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\it\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\ja\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\pt\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\ru\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\sk\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\sv\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\tr\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Keyence PLC\test20160506\test20160506\obj\Debug\ResolveAssemblyReference.cache
+F:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.Form1.resources
+F:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.Form2.resources
+F:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.Resources.resources
+F:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.vbproj.GenerateResource.Cache
+I:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.Form2.resources
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\ZedGraph.xml
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\de\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\es\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\fr\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\hu\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\it\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\ja\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\pt\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\ru\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\sk\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\sv\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\tr\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Keyence PLC\test20160506\test20160506\obj\Debug\ResolveAssemblyReference.cache
+D:\Keyence PLC\test20160506\test20160506\obj\Debug\test20160506.vbproj.GenerateResource.Cache
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\WieldLVDT.exe
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\WieldLVDT.pdb
+D:\Keyence PLC\test20160506\test20160506\bin\Debug\WieldLVDT.xml
+D:\Keyence PLC\test20160506\test20160506\obj\Debug\WieldLVDT.connectting.resources
+D:\Keyence PLC\test20160506\test20160506\obj\Debug\WieldLVDT.Form1.resources
+D:\Keyence PLC\test20160506\test20160506\obj\Debug\WieldLVDT.Form2.resources
+D:\Keyence PLC\test20160506\test20160506\obj\Debug\WieldLVDT.form_param.resources
+D:\Keyence PLC\test20160506\test20160506\obj\Debug\WieldLVDT.Resources.resources
+D:\Keyence PLC\test20160506\test20160506\obj\Debug\WieldLVDT.exe
+D:\Keyence PLC\test20160506\test20160506\obj\Debug\WieldLVDT.xml
+D:\Keyence PLC\test20160506\test20160506\obj\Debug\WieldLVDT.pdb
+H:\test20160506\test20160506\bin\Debug\WieldLVDT.exe.manifest
+H:\test20160506\test20160506\bin\Debug\WieldLVDT.application
+H:\test20160506\test20160506\bin\Debug\WieldLVDT.exe
+H:\test20160506\test20160506\bin\Debug\WieldLVDT.pdb
+H:\test20160506\test20160506\bin\Debug\WieldLVDT.xml
+H:\test20160506\test20160506\bin\Debug\ZedGraph.xml
+H:\test20160506\test20160506\bin\Debug\de\ZedGraph.resources.dll
+H:\test20160506\test20160506\bin\Debug\es\ZedGraph.resources.dll
+H:\test20160506\test20160506\bin\Debug\fr\ZedGraph.resources.dll
+H:\test20160506\test20160506\bin\Debug\hu\ZedGraph.resources.dll
+H:\test20160506\test20160506\bin\Debug\it\ZedGraph.resources.dll
+H:\test20160506\test20160506\bin\Debug\ja\ZedGraph.resources.dll
+H:\test20160506\test20160506\bin\Debug\pt\ZedGraph.resources.dll
+H:\test20160506\test20160506\bin\Debug\ru\ZedGraph.resources.dll
+H:\test20160506\test20160506\bin\Debug\sk\ZedGraph.resources.dll
+H:\test20160506\test20160506\bin\Debug\sv\ZedGraph.resources.dll
+H:\test20160506\test20160506\bin\Debug\tr\ZedGraph.resources.dll
+H:\test20160506\test20160506\bin\Debug\zh-cn\ZedGraph.resources.dll
+H:\test20160506\test20160506\bin\Debug\zh-tw\ZedGraph.resources.dll
+H:\test20160506\test20160506\obj\Debug\ResolveAssemblyReference.cache
+H:\test20160506\test20160506\obj\Debug\WieldLVDT.connectting.resources
+H:\test20160506\test20160506\obj\Debug\WieldLVDT.Form1.resources
+H:\test20160506\test20160506\obj\Debug\WieldLVDT.Form2.resources
+H:\test20160506\test20160506\obj\Debug\WieldLVDT.form_param.resources
+H:\test20160506\test20160506\obj\Debug\WieldLVDT.Resources.resources
+H:\test20160506\test20160506\obj\Debug\test20160506.vbproj.GenerateResource.Cache
+H:\test20160506\test20160506\obj\Debug\WieldLVDT.exe.manifest
+H:\test20160506\test20160506\obj\Debug\WieldLVDT.application
+H:\test20160506\test20160506\obj\Debug\WieldLVDT.exe
+H:\test20160506\test20160506\obj\Debug\WieldLVDT.xml
+H:\test20160506\test20160506\obj\Debug\WieldLVDT.pdb
+I:\test20160506\test20160506\bin\Debug\WieldLVDT.exe.manifest
+I:\test20160506\test20160506\bin\Debug\WieldLVDT.application
+I:\test20160506\test20160506\bin\Debug\WieldLVDT.exe
+I:\test20160506\test20160506\bin\Debug\WieldLVDT.pdb
+I:\test20160506\test20160506\bin\Debug\WieldLVDT.xml
+I:\test20160506\test20160506\bin\Debug\ZedGraph.dll
+I:\test20160506\test20160506\bin\Debug\ZedGraph.xml
+I:\test20160506\test20160506\bin\Debug\de\ZedGraph.resources.dll
+I:\test20160506\test20160506\bin\Debug\es\ZedGraph.resources.dll
+I:\test20160506\test20160506\bin\Debug\fr\ZedGraph.resources.dll
+I:\test20160506\test20160506\bin\Debug\hu\ZedGraph.resources.dll
+I:\test20160506\test20160506\bin\Debug\it\ZedGraph.resources.dll
+I:\test20160506\test20160506\bin\Debug\ja\ZedGraph.resources.dll
+I:\test20160506\test20160506\bin\Debug\pt\ZedGraph.resources.dll
+I:\test20160506\test20160506\bin\Debug\ru\ZedGraph.resources.dll
+I:\test20160506\test20160506\bin\Debug\sk\ZedGraph.resources.dll
+I:\test20160506\test20160506\bin\Debug\sv\ZedGraph.resources.dll
+I:\test20160506\test20160506\bin\Debug\tr\ZedGraph.resources.dll
+I:\test20160506\test20160506\bin\Debug\zh-cn\ZedGraph.resources.dll
+I:\test20160506\test20160506\bin\Debug\zh-tw\ZedGraph.resources.dll
+I:\test20160506\test20160506\obj\Debug\ResolveAssemblyReference.cache
+I:\test20160506\test20160506\obj\Debug\WieldLVDT.connectting.resources
+I:\test20160506\test20160506\obj\Debug\WieldLVDT.Form1.resources
+I:\test20160506\test20160506\obj\Debug\WieldLVDT.Form2.resources
+I:\test20160506\test20160506\obj\Debug\WieldLVDT.form_param.resources
+I:\test20160506\test20160506\obj\Debug\WieldLVDT.Resources.resources
+I:\test20160506\test20160506\obj\Debug\test20160506.vbproj.GenerateResource.Cache
+I:\test20160506\test20160506\obj\Debug\WieldLVDT.exe.manifest
+I:\test20160506\test20160506\obj\Debug\WieldLVDT.application
+I:\test20160506\test20160506\obj\Debug\WieldLVDT.exe
+I:\test20160506\test20160506\obj\Debug\WieldLVDT.xml
+I:\test20160506\test20160506\obj\Debug\WieldLVDT.pdb
+F:\test20160506\test20160506\obj\Debug\WieldLVDT.exe
+F:\test20160506\test20160506\obj\Debug\WieldLVDT.xml
+F:\test20160506\test20160506\obj\Debug\WieldLVDT.pdb
+F:\test20160506\test20160506\bin\Debug\WieldLVDT.exe.manifest
+F:\test20160506\test20160506\bin\Debug\WieldLVDT.application
+F:\test20160506\test20160506\bin\Debug\WieldLVDT.exe
+F:\test20160506\test20160506\bin\Debug\WieldLVDT.pdb
+F:\test20160506\test20160506\bin\Debug\WieldLVDT.xml
+F:\test20160506\test20160506\bin\Debug\ZedGraph.xml
+F:\test20160506\test20160506\bin\Debug\de\ZedGraph.resources.dll
+F:\test20160506\test20160506\bin\Debug\es\ZedGraph.resources.dll
+F:\test20160506\test20160506\bin\Debug\fr\ZedGraph.resources.dll
+F:\test20160506\test20160506\bin\Debug\hu\ZedGraph.resources.dll
+F:\test20160506\test20160506\bin\Debug\it\ZedGraph.resources.dll
+F:\test20160506\test20160506\bin\Debug\ja\ZedGraph.resources.dll
+F:\test20160506\test20160506\bin\Debug\pt\ZedGraph.resources.dll
+F:\test20160506\test20160506\bin\Debug\ru\ZedGraph.resources.dll
+F:\test20160506\test20160506\bin\Debug\sk\ZedGraph.resources.dll
+F:\test20160506\test20160506\bin\Debug\sv\ZedGraph.resources.dll
+F:\test20160506\test20160506\bin\Debug\tr\ZedGraph.resources.dll
+F:\test20160506\test20160506\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\test20160506\test20160506\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\test20160506\test20160506\obj\Debug\ResolveAssemblyReference.cache
+F:\test20160506\test20160506\obj\Debug\WieldLVDT.connectting.resources
+F:\test20160506\test20160506\obj\Debug\WieldLVDT.Form1.resources
+F:\test20160506\test20160506\obj\Debug\WieldLVDT.Form2.resources
+F:\test20160506\test20160506\obj\Debug\WieldLVDT.form_param.resources
+F:\test20160506\test20160506\obj\Debug\WieldLVDT.Resources.resources
+F:\test20160506\test20160506\obj\Debug\test20160506.vbproj.GenerateResource.Cache
+F:\test20160506\test20160506\obj\Debug\WieldLVDT.exe.manifest
+F:\test20160506\test20160506\obj\Debug\WieldLVDT.application
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\obj\Debug\WieldLVDT.exe
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\obj\Debug\WieldLVDT.xml
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\obj\Debug\WieldLVDT.pdb
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\WieldLVDT.exe.manifest
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\WieldLVDT.application
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\WieldLVDT.exe
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\WieldLVDT.pdb
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\WieldLVDT.xml
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\ZedGraph.xml
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\de\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\es\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\fr\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\hu\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\it\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\ja\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\pt\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\ru\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\sk\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\sv\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\tr\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\obj\Debug\ResolveAssemblyReference.cache
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\obj\Debug\WieldLVDT.connectting.resources
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\obj\Debug\WieldLVDT.Form1.resources
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\obj\Debug\WieldLVDT.Form2.resources
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\obj\Debug\WieldLVDT.form_param.resources
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\obj\Debug\WieldLVDT.Resources.resources
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\obj\Debug\test20160506.vbproj.GenerateResource.Cache
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\obj\Debug\WieldLVDT.exe.manifest
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\test20160506\test20160506\obj\Debug\WieldLVDT.application
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\LVDT2\test20160506\obj\Debug\WieldLVDT.exe
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\LVDT2\test20160506\obj\Debug\WieldLVDT.xml
+D:\線上機台使用中程式\立式水泥鑽頭焊接機-中大尺寸(lvdt)\LVDT2\test20160506\obj\Debug\WieldLVDT.pdb

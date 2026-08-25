@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A28C596B-F132-457D-AC6D-06F7DFB9C21C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WieldLVDT.My.MyApplication</StartupObject>
+    <RootNamespace>WieldLVDT</RootNamespace>
+    <AssemblyName>WieldLVDT</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>1C9294C6944112CA1D1BFE6F084C1CC7F054752B</ManifestCertificateThumbprint>
+    <ManifestKeyFile>test20160506_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <PublishUrl>D:\lvdt-all\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Wield-LVDT-REC</ProductName>
+    <PublisherName>AJ</PublisherName>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WieldLVDT.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WieldLVDT.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\ajGame\zedgraph_dll_v515\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="connectting.Designer.vb">
+      <DependentUpon>connectting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="connectting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_param.Designer.vb">
+      <DependentUpon>form_param.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_param.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FTPcsvMove.Designer.vb">
+      <DependentUpon>FTPcsvMove.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FTPcsvMove.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN.Designer.vb">
+      <DependentUpon>MAIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NO1.Designer.vb">
+      <DependentUpon>NO1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO10.Designer.vb">
+      <DependentUpon>NO10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO11.Designer.vb">
+      <DependentUpon>NO11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO12.Designer.vb">
+      <DependentUpon>NO12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO13.Designer.vb">
+      <DependentUpon>NO13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO14.Designer.vb">
+      <DependentUpon>NO14.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO15.Designer.vb">
+      <DependentUpon>NO15.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO15.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO16.Designer.vb">
+      <DependentUpon>NO16.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO16.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO17.Designer.vb">
+      <DependentUpon>NO17.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO17.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO2.Designer.vb">
+      <DependentUpon>NO2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO3.Designer.vb">
+      <DependentUpon>NO3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO4.Designer.vb">
+      <DependentUpon>NO4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO5.Designer.vb">
+      <DependentUpon>NO5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO6.Designer.vb">
+      <DependentUpon>NO6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO7.Designer.vb">
+      <DependentUpon>NO7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO8.Designer.vb">
+      <DependentUpon>NO8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NO9.Designer.vb">
+      <DependentUpon>NO9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NO9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReadGrapFileForm.Designer.vb">
+      <DependentUpon>ReadGrapFileForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReadGrapFileForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RWini.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="connectting.resx">
+      <DependentUpon>connectting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_param.resx">
+      <DependentUpon>form_param.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FTPcsvMove.resx">
+      <DependentUpon>FTPcsvMove.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN.resx">
+      <DependentUpon>MAIN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NO2.resx">
+      <DependentUpon>NO2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReadGrapFileForm.resx">
+      <DependentUpon>ReadGrapFileForm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="test20160506_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="Microsoft.VisualBasic.PowerPacks.Vs">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="System.Windows.Forms.DataVisualization">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="zh-CHT\Microsoft.VisualBasic.PowerPacks.Vs.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
